@@ -1,0 +1,9 @@
+out
+a.out
+*.o
+*.elf
+*.log
+*.lst
+*.dot
+config
+src/codegen.c
